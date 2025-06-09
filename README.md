@@ -1,30 +1,39 @@
-# EduBOX website design
+# 🎓 EDUBOX
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Less clutter, More clarity, One study space.**
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/omar-rasins-projects/v0-edu-box-website-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/DV6MbNhlzmR)
+Welcome to **EDUBOX**, your all-in-one digital study companion designed for focus, efficiency, and peace of mind. Whether you're cramming for finals or trying to build better study habits, EDUBOX has your back.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 Features
 
-## Deployment
+- 📚 **Flashcards** — Create, review, and master concepts effortlessly.
+- 🎡 **Topic Spinner** — Can't decide what to study next? Let fate choose for you.
+- 🧘 **Wellness** — Mindfulness tools and reminders to take care of your mental health.
+- 📝 **Notes** — Keep your study notes organized and always accessible.
+- 📊 **Grades** — Track your academic progress and set goals.
+- 💬 **Quotes** — Daily motivational quotes to keep you going.
+- 🎯 **Focus** — Distraction-free mode to help you stay in the zone.
+- 📄 **Papers** — Store and manage past papers or important documents.
+- ⏱️ **Pomodoro** — Built-in Pomodoro timer to optimize your productivity cycles.
 
-Your project is live at:
+---
 
-**[https://vercel.com/omar-rasins-projects/v0-edu-box-website-design](https://vercel.com/omar-rasins-projects/v0-edu-box-website-design)**
+## 🛠 Tech Stack
 
-## Build your app
+- **TypeScript** — For structured, scalable code.
+- **JavaScript** — Dynamic client-side interactivity.
+- **CSS** — Clean, responsive design and animations.
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/DV6MbNhlzmR](https://v0.dev/chat/projects/DV6MbNhlzmR)**
 
-## How It Works
+## 📁 Installation
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+git clone https://github.com/omar-rasin/EDUBOX.git
+cd edubox
+npm install
+npm start
+
