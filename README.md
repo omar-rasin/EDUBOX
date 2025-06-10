@@ -4,6 +4,8 @@
 
 Welcome to **EDUBOX**, your all-in-one digital study companion designed for focus, efficiency, and peace of mind. Whether you're cramming for finals or trying to build better study habits, EDUBOX has your back.
 
+🔗 **Live Site**: [https://v0-edu-box-website-design.vercel.app/](https://v0-edu-box-website-design.vercel.app/)
+
 ---
 
 ## 🚀 Features
@@ -28,6 +30,12 @@ Welcome to **EDUBOX**, your all-in-one digital study companion designed for focu
 
 ---
 
+## 🧑‍💻 Author
+
+**Muhammad Omar Rasin**  
+omarasinyt@gmail.com
+
+---
 
 ## 📁 Installation
 
@@ -36,4 +44,3 @@ git clone https://github.com/omar-rasin/EDUBOX.git
 cd edubox
 npm install
 npm start
-
